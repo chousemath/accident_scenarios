@@ -12,8 +12,17 @@
 * This acceleration change should be enough to detect minor accidents, and is well below the threshold for airbag deployment (~60G's)
 * Note: in the event of a sudden stop (driver initiated), although the change in velocity might be large, the actual acceleration event is small because the velocity change occurs over a longer time (unlikely to be greater than 4G's)
 
+```python
+def accident_detected(vel: float, accel: float) -> bool:
+    """Determines whether or not an accident has occurred"""
+    if vel >= 15 and accel >= 4:
+        return True
+    return False
+```
+
 ### General Notes
 * The soft crush of sheet metal produces low deceleration pulses in the vehicle
 * The series of decelerations over a duration of +100ms of a crash may be called a `crash pulse` or a `deceleration curve`
 * A crash pulse is characterized by `shape`, `amplitude`, and `duration`
+* Glass breakage detectors usually use a microphone which measures any noise or vibrations coming from the vehicle's glass surfaces (narrowband microphones tuned to frequencies typical of glass shattering)
 
