@@ -1,6 +1,6 @@
 ### Simple velocity/acceleration scenario
 
-![Alt accident_a1](accident_a1.svg)
+![Alt accident_a1](images/accident_a1.svg)
 
 * Based on [this paper](https://drive.google.com/file/d/1QDbfbPimx4J_werIiUyXG3ZoOR6K9eps/view?usp=sharing)
 * Begin recording accelerometer information and looking for potential accidents only above 15mph
