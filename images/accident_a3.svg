@@ -1,0 +1,50 @@
+<svg width="683" height="587" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M86.8 55.5 L86.8 88 L225.8 122.4 L225.8 122.4 " style="stroke:#33322E;fill:none;"></path>
+<path d="M208.4 124.8 L217.9 120.5 L211.5 112.2 L225.8 122.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M275.8 55.5 L275.8 88 L287.7 120.5 L287.7 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M276 107.5 L282.1 105.3 L288.2 103 L287.7 120.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M455.3 55.5 L455.3 88 L354 120.5 L354 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M367.5 109.3 L369.4 115.5 L371.4 121.7 L354 120.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M234.6 158.5 L131.8 191 L131.8 223.5 L131.8 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M125.3 207.3 L131.8 207.3 L138.3 207.3 L131.8 223.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M318.4 158.5 L358.8 191 L358.8 223.5 L358.8 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M352.3 207.3 L358.8 215.4 L365.3 207.3 L358.8 223.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M131.8 261.5 L131.8 294 L131.8 326.5 L131.8 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M125.3 310.3 L131.8 310.3 L138.3 310.3 L131.8 326.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M358.8 261.5 L358.8 294 L358.8 326.5 L358.8 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M352.3 310.3 L358.8 318.4 L365.3 310.3 L358.8 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M256.6 364.5 L82 397 L82 429.5 L82 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M75.5 413.3 L82 421.4 L88.5 413.3 L82 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M343.9 364.5 L318.5 397 L318.5 429.5 L318.5 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M312 413.3 L318.5 421.4 L325 413.3 L318.5 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M439.8 364.5 L578.5 397 L578.5 429.5 L578.5 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M572 413.3 L578.5 421.4 L585 413.3 L578.5 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M82 467.5 L82 500 L294.3 539.5 L294.3 539.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M277.1 542.9 L286.3 538 L279.5 530.1 L294.3 539.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M318.5 467.5 L318.5 500 L343.9 532.5 L343.9 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M328.8 523.7 L338.9 526.1 L339 515.7 L343.9 532.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M578.5 467.5 L578.5 500 L423.3 536.4 L423.3 536.4 " style="stroke:#33322E;fill:none;"></path>
+<path d="M437.6 526.3 L431.2 534.5 L440.6 539 L423.3 536.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="22.5" y="17.5" height="38" width="129" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="34.8" y="41.9" style="">Airbag(160)</text>
+<path d="M294.8 108.5 L375.5 139.5 L294.8 170.5 L213.5 139.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<text x="237.5" y="144.9" style="">Sound >= 160</text>
+<rect x="216.5" y="17.5" height="38" width="119" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="228.5" y="41.9" style="">Shout(110)</text>
+<rect x="400.5" y="17.5" height="38" width="110" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="412.8" y="41.9" style="">Speak(60)</text>
+<ellipse cx="131.8" cy="242.5" rx="21.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="122.5" y="247.9" style="">No</text>
+<ellipse cx="358.8" cy="242.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="344.5" y="247.9" style="">Yes</text>
+<rect x="91.5" y="326.5" height="38" width="81" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="103.5" y="350.9" style="">Ignore</text>
+<rect x="237.5" y="326.5" height="38" width="243" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="249.5" y="350.9" style="">Start Accident Protocol</text>
+<rect x="17.5" y="429.5" height="38" width="129" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="29.8" y="453.9" style="">SnapshotOBD</text>
+<rect x="211.5" y="429.5" height="38" width="214" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="223.5" y="453.9" style="">SnapshotOtherSensors</text>
+<rect x="490.5" y="429.5" height="38" width="176" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="502.5" y="453.9" style="">SnapshotBlackBox</text>
+<rect x="294.5" y="532.5" height="38" width="129" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="306.8" y="556.9" style="">Send to 119</text></svg>
