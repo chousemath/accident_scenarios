@@ -38,3 +38,15 @@
 * Glass breakage detectors usually use a microphone which measures any noise or vibrations coming from the vehicle's glass surfaces (narrowband microphones tuned to frequencies typical of glass shattering)
 * Airbag deployment emits a high-decibal acoustic event
 * In the case of an accident, the smartphone experiences the same acceleration force experienced by the occupants of the vehicle, because smartphones are frequently carried in a pocket attached to the occupants
+
+### Resources
+* [Vehicle Accident Detection and Alerting System](https://drive.google.com/file/d/1whJGfI7QLJ5fAWR8xfjTuaIy_xNvX9FU/view?usp=sharing)
+* [Vehicle Accident Automatic Detection and Remote Alarm Device](https://drive.google.com/file/d/1tEahVs4c9ry3DOEkpVku7I1m4XHZzCWr/view?usp=sharing)
+* [Using Smartphones to Detect Car Accidents and Provide Situational Awareness to Emergency Responders](https://drive.google.com/file/d/1QDbfbPimx4J_werIiUyXG3ZoOR6K9eps/view?usp=sharing)
+* [Solutions for acceleration measurement in vehicle crash tests](https://drive.google.com/file/d/16eFYnjP_QVrtOjLHeLgy-vnHx_6hArvV/view?usp=sharing)
+* [Smart Accident Detection & Assistance System](https://drive.google.com/file/d/1vtiZ_JE33bkDKVtSgbMHtS9mzcfRQgLo/view?usp=sharing)
+* [SENSOR BASED ACCIDENT DETECTION AND PREVENTION TECHNOLOGY](https://drive.google.com/file/d/171SN4d5lo06UgbVaNzxM595QA_zYX7My/view?usp=sharing)
+* [Real Time Vehicle Accident Detection and Tracking Using GPS and GSM](https://drive.google.com/file/d/1RIa3qVR3eINVQUyTP2GogMVzPPTKqWvy/view?usp=sharing)
+* [Car Accident Detection and Notification System Using Smartphone](https://drive.google.com/open?id=1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf)
+* [Automatic Vehicle Accident Detection and Messaging System Using GSM and GPS Modem](https://drive.google.com/file/d/1w-vxJ401utAMfdhR_oZRKpNnT0Qn8aDG/view?usp=sharing)
+* [Automatic road accident detection techniques: A brief survey](https://drive.google.com/file/d/1YE1m0t6Q2QFngFNCkGdeHq-w1h4MnkYm/view?usp=sharing)
