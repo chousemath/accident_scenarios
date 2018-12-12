@@ -26,6 +26,14 @@
 * A sudden stop generates approximately 1G [*](https://drive.google.com/file/d/1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf/view?usp=sharing)
 * When a smartphone is dropped inside a vehicle, it experiences approximately 2G's on the y/z axes, and 3G's on the x-axis before it comes to rest [*](https://drive.google.com/file/d/1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf/view?usp=sharing)
 
+### Large/sudden shift in gyroscope orientation scenario (a1)
+
+![Alt accident_a1](images/accident_a2.svg)
+
+> * GyroX: vehicle's orientation along the x-axis
+> * GyroY: vehicle's orientation along the y-axis
+> * GyroZ: vehicle's orientation along the z-axis
+
 ### Sample code for the scenario above...
 
 > ...can be found [here](https://github.com/chousemath/accident_scenarios/blob/master/code/accident_a1.c)
@@ -50,3 +58,4 @@
 * [Car Accident Detection and Notification System Using Smartphone](https://drive.google.com/open?id=1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf)
 * [Automatic Vehicle Accident Detection and Messaging System Using GSM and GPS Modem](https://drive.google.com/file/d/1w-vxJ401utAMfdhR_oZRKpNnT0Qn8aDG/view?usp=sharing)
 * [Automatic road accident detection techniques: A brief survey](https://drive.google.com/file/d/1YE1m0t6Q2QFngFNCkGdeHq-w1h4MnkYm/view?usp=sharing)
+* [Automatic Accident Detection and Alerting System Based on IOT](https://drive.google.com/file/d/1De_9zCHEajPtiGBoniI1tQFemCQDMl3j/view?usp=sharing)

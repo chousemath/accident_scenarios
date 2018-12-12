@@ -1,6 +1,6 @@
-<svg width="1230.25" height="690" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M137.8 53.3 L44 88 L44 120.5 L44 120.5 " style="stroke:#33322E;fill:none;"></path>
+<svg width="1230.25" height="690" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M133.3 55 L44 88 L44 120.5 L44 120.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M37.5 104.3 L44 104.3 L50.5 104.3 L44 120.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
-<path d="M228.8 42.4 L582.5 88 L582.5 120.5 L582.5 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M233.3 42.9 L582.5 88 L582.5 120.5 L582.5 120.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M576 104.3 L582.5 112.4 L589 104.3 L582.5 120.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M44 158.5 L44 191 L44 397 L44 397 L126.5 431.5 L126.5 431.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M109 431.3 L111.5 425.3 L114 419.3 L126.5 431.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
@@ -44,8 +44,8 @@
 <path d="M869 623.9 L878.5 628.2 L880.6 618.1 L882.2 635.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M1125.8 570.5 L1125.8 603 L956.3 640.3 L956.3 640.3 " style="stroke:#33322E;fill:none;"></path>
 <path d="M970.7 630.5 L964.2 638.6 L973.5 643.2 L956.3 640.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
-<path d="M183.3 5.5 L240.5 36.5 L183.3 67.5 L125.5 36.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
-<text x="149.8" y="41.9" style="">Vel > 0</text>
+<path d="M183.3 5.5 L245.5 36.5 L183.3 67.5 L121.5 36.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<text x="145.5" y="41.9" style="">Vel >= 0</text>
 <ellipse cx="44" cy="139.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
 <text x="29.5" y="144.9" style="">No*</text>
 <ellipse cx="582.5" cy="139.5" rx="31" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
