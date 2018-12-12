@@ -1,1 +1,1 @@
-![Alt accident_a1](accident_a1.png)
+![Alt accident_a1](accident_a1.svg)
