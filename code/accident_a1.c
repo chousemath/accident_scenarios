@@ -54,12 +54,20 @@ int main()
     struct DataOther dataOther1;
     dataOther1.Sound = 65.5;
 
-    assert(accidentDetected(&dataOBD1, &dataOther1));
-    dataOther1.Sound = 165.5;
-    assert(accidentDetected(&dataOBD1, &dataOther1));
-    dataOBD1.VelPrev = 1.56;
-    assert(accidentDetected(&dataOBD1, &dataOther1));
-    dataOther1.Sound = 65.5;
-    assert(!accidentDetected(&dataOBD1, &dataOther1));
+    // assert(accidentDetected(&dataOBD1, &dataOther1));
+    // dataOther1.Sound = 165.5;
+    // assert(accidentDetected(&dataOBD1, &dataOther1));
+    // dataOBD1.VelPrev = 1.56;
+    // assert(accidentDetected(&dataOBD1, &dataOther1));
+    // dataOther1.Sound = 65.5;
+    // assert(!accidentDetected(&dataOBD1, &dataOther1));
+
+    if (accidentDetected(&dataOBD1, &dataOther1))
+    {
+        printf("Snapshot of OBD data was taken (last 15s)\n");
+        printf("Snapshot of other sensor data was taken (last 15s)\n");
+        printf("Snapshot of blackbox data was taken (last 15s)\n");
+        printf("Data was sent to 119\n");
+    }
     return 0;
 }
