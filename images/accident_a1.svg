@@ -3,7 +3,7 @@
 <path d="M245.3 43.4 L333.5 64.5 L333.5 84.5 L333.5 84.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M328.2 71.2 L333.5 77.8 L338.8 71.2 L333.5 84.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M36 115.5 L36 135.5 L36 277.5 L36 277.5 L87 298.2 L87 298.2 " style="stroke:#33322E;fill:none;"></path>
-<path d="M72.6 298.1 L80.8 295.7 L76.6 288.2 L87 298.2 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M72.6 298.1 L74.6 293.2 L76.6 288.2 L87 298.2 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <path d="M333.5 115.5 L333.5 135.5 L333.5 155.5 L333.5 155.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M328.2 142.2 L333.5 148.8 L338.8 142.2 L333.5 155.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M306.8 186.5 L272.3 206.5 L272.3 226.5 L272.3 226.5 " style="stroke:#33322E;fill:none;"></path>
@@ -11,13 +11,13 @@
 <path d="M355.1 186.5 L383 206.5 L383 226.5 L383 226.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M377.7 213.2 L383 219.8 L388.3 213.2 L383 226.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M272.3 257.5 L272.3 277.5 L160 304.3 L160 304.3 " style="stroke:#33322E;fill:none;"></path>
-<path d="M171.7 296 L166.5 302.7 L174.2 306.4 L160 304.3 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M171.7 296 L173 301.2 L174.2 306.4 L160 304.3 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <path d="M383 257.5 L383 277.5 L383 297.5 L383 297.5 " style="stroke:#33322E;fill:none;"></path>
 <path d="M377.7 284.2 L383 290.8 L388.3 284.2 L383 297.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <path d="M182.5 115.5 L182.5 135.5 L278 158 L278 158 " style="stroke:#33322E;fill:none;"></path>
-<path d="M263.8 160.1 L271.5 156.4 L266.2 149.7 L278 158 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M263.8 160.1 L265 154.9 L266.2 149.7 L278 158 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <path d="M503.5 115.5 L503.5 135.5 L389 159.4 L389 159.4 " style="stroke:#33322E;fill:none;"></path>
-<path d="M401 151.5 L395.5 158 L403.1 161.9 L389 159.4 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M401 151.5 L402.1 156.7 L403.1 161.9 L389 159.4 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <path d="M184.8 5.5 L253.5 29 L184.8 52.5 L116.5 29 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
 <text x="132.8" y="35" style="">Vel > 15mph</text>
 <ellipse cx="36" cy="100" rx="22.5" ry="15.5" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
