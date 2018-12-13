@@ -66,3 +66,6 @@
 * [Automatic Vehicle Accident Detection and Messaging System Using GSM and GPS Modem](https://drive.google.com/file/d/1w-vxJ401utAMfdhR_oZRKpNnT0Qn8aDG/view?usp=sharing)
 * [Automatic road accident detection techniques: A brief survey](https://drive.google.com/file/d/1YE1m0t6Q2QFngFNCkGdeHq-w1h4MnkYm/view?usp=sharing)
 * [Automatic Accident Detection and Alerting System Based on IOT](https://drive.google.com/file/d/1De_9zCHEajPtiGBoniI1tQFemCQDMl3j/view?usp=sharing)
+* [AN EFFICIENT VEHICLE ACCIDENT DETECTION USING SENSOR TECHNOLOGY](https://drive.google.com/file/d/1UHJQDrt2Tio3XM-UlL58pgms5CwNPqbo/view?usp=sharing)
+* [ACCIDENT DETECTION SYSTEM AND METHOD FOR ACCIDENT DETECTION](https://drive.google.com/file/d/1P67Zx_lvv1nDwlR3glYUzx5-C2_c9G4-/view?usp=sharing)
+* [ACCIDENT DETECTION AND REPORTING SYSTEM USING GPS, GPRS AND GSM TECHNOLOGY](https://drive.google.com/file/d/1jbD1_la1PNB-6C1mk1NgPduNVd7h9HIk/view?usp=sharing)
