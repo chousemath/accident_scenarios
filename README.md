@@ -69,3 +69,7 @@
 * [AN EFFICIENT VEHICLE ACCIDENT DETECTION USING SENSOR TECHNOLOGY](https://drive.google.com/file/d/1UHJQDrt2Tio3XM-UlL58pgms5CwNPqbo/view?usp=sharing)
 * [ACCIDENT DETECTION SYSTEM AND METHOD FOR ACCIDENT DETECTION](https://drive.google.com/file/d/1P67Zx_lvv1nDwlR3glYUzx5-C2_c9G4-/view?usp=sharing)
 * [ACCIDENT DETECTION AND REPORTING SYSTEM USING GPS, GPRS AND GSM TECHNOLOGY](https://drive.google.com/file/d/1jbD1_la1PNB-6C1mk1NgPduNVd7h9HIk/view?usp=sharing)
+* [A Real-Time Autonomous Highway Accident Detection Model Based on Big Data Processing and Computational Intelligence](https://drive.google.com/file/d/1icFXESCYUh2d3nChG-KfaFoHMCal38uP/view?usp=sharing)
+* [A Review Paper on Accident Detection System Using Intelligent Algorithm for VANET](https://drive.google.com/file/d/11jgWeSp5OAWxD12c3oR9s5I-uU5GqAgG/view?usp=sharing)
+* [ACCIDENT DETECTION DEPENDING ON THE VEHICLE POSITION AND VEHICLE THEFT TRACKING, REPORTING SYSTEMS](https://drive.google.com/file/d/128h_E20QdvC6Hn77oJK5RjgFtdZJ5u4s/view?usp=sharing)
+* [ACCIDENT DETECTION SYSTEM APPLICATION](https://drive.google.com/file/d/1lavEV9gpmVflaYyad0zArhtLH5VLF7fh/view?usp=sharing)
