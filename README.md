@@ -49,7 +49,11 @@
 
 ### Common minor vehicle accidents
 
-* Rear-end collisions — These types of traffic accidents are often caused by sudden deceleration (slowing down or braking). In some cases, another driver is following too closely or accelerates to a higher speed than the car in front of it.
+##### Rear-end collisions
+
+![Alt accident_case_a1](images/accident_case_a1.svg)
+
+> These types of traffic accidents are often caused by sudden deceleration (slowing down or braking). In some cases, another driver is following too closely or accelerates to a higher speed than the car in front of it.
 
 * Side-impact collisions — Side-impact collisions can cause grave injuries. Often called "T-bone" or "broadside" collisions, side-impact accidents occur when the side of a vehicle is hit. It can be impacted by the front or rear of another vehicle or in some cases a fixed object. Vehicle damage is often severe and drivers or passengers on the impacted side of the vehicle usually sustain far worse injuries than they would in another type of crash.
 
