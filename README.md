@@ -47,6 +47,40 @@
 
 > ...can be found [here](https://github.com/chousemath/accident_scenarios/blob/master/code/accident_a1.c)
 
+### Common minor vehicle accidents
+
+* Rear-end collisions — These types of traffic accidents are often caused by sudden deceleration (slowing down or braking). In some cases, another driver is following too closely or accelerates to a higher speed than the car in front of it.
+
+* Side-impact collisions — Side-impact collisions can cause grave injuries. Often called "T-bone" or "broadside" collisions, side-impact accidents occur when the side of a vehicle is hit. It can be impacted by the front or rear of another vehicle or in some cases a fixed object. Vehicle damage is often severe and drivers or passengers on the impacted side of the vehicle usually sustain far worse injuries than they would in another type of crash.
+
+* Sideswipe collisions — Sideswipe collisions occur when two cars that are parallel touch. In many cases, the damage is only minor, as the cars have just "swiped" each other. Injuries and damages are typically minimal, unless one of the drivers loses control of the vehicle as a result of the collision.
+
+* Vehicle rollover — Vehicle rollover accidents are extremely dangerous and frightening. A rollover occurs when a vehicle literally flips over onto its side or roof. Any vehicle can be involved in a rollover accident, but cars with a high center of gravity such as SUVs (sport utility vehicles) are especially prone to this type of accident. Often caused by sharp turns at high speed, rollover accidents can lead to serious injuries, including spinal cord injuries and brain trauma.
+
+* Head-on collisions — These types of collisions are often fatal. Head-on collisions are exactly what they sound like — they occur when the front ends of two vehicles impact each other.
+
+* Single-car accidents — Accidents involving only one vehicle are also common. They occur when a vehicle strikes an object such as a pole, a tree, a fire hydrant or a wall. In some cases, they may involve pedestrians and other innocent bystanders. Single-car collisions can result in driver and passenger injuries, pedestrian injuries, and often extensive property damage.
+
+* Multiple vehicle collisions — Multiple vehicle collisions are sometimes referred to as "pile-ups" and often occur on busy roads such as highways and freeways. They can involve many vehicles and be the most dangerous. Vehicles can be impacted multiple times and it may be difficult to escape. It is also difficult to determine fault in these cases.
+
+* Hit-and-run accidents — An accident where one driver leaves the scene is known as a hit-and-run accident. It can be very difficult to determine the identity of the driver or vehicle.
+
+* T-Bone or Cross-Traffic Accidents - Collisions at an intersection where traffic crosses are most often called T-bone accidents. These are usually caused by a driver running a red light or stop sign or taking a left turn without yielding to oncoming traffic. Since most T-bone crashes are caused by the negligence of a driver, the best way to avoid these crashes is to follow traffic laws. Unfortunately, not everyone is responsible about this. In order to prevent being a victim of another person’s poor driving, take extra caution when driving through intersections and watch out for any signs that the other driver is distracted and not paying attention.
+
+* Clipping Other Cars When Merging - Merging cars (and cars around the merging vehicle) are at risk of being sideswiped. These types of car crashes generally caused by a failure of the merging driver to check all blind spots. In order to void these crashes, always look around you and check blind spots before changing lanes. Also, don’t speed, especially in areas where other drivers commonly will be merging. You may make it more difficult for them to properly see you when checking in blind spots.
+
+* Low Speed Accidents - Low speed impact crashes may not be the worst, but they can still do damage. These fender-benders, bumps, parking lot collisions, and other crashes under the speed of ten miles per hour can often happen in parking lots and residential areas, risking pedestrian lives. You must always be on the lookout for pedestrians in neighborhoods and other common pedestrian areas, and you should never speed. Even at low speeds, pedestrian accidents can result in serious injury. Since many low speed crashes happen while drivers are backing up, take extra care to look out for other drivers before reversing.
+
+### User stories
+
+* Story 1 - You make a quick run to your local grocery store after work to pick up a few items you’ll need for dinner. You get in and out of the store without too much waiting or hassle despite it being that time of day when everyone seems to need bread and eggs. You walk to your car, start it up, and pull out of your parking space. As you edge toward the parking lot exit, another driver is backing out of a parking space and doesn’t see you. Before you know it, the other driver is colliding with you. You feel a shaken, but you were wearing your seat belt and don’t think you’re hurt, and there doesn’t appear to be any damage to your car.
+
+* Story 2 - You’re sitting in stop-and-go traffic, which can be a pretty common scenario anywhere in Chicago during rush hour. Every few minutes, you may get to move a few feet. Cars are bumper-to-bumper, and everyone is just hoping that the bottleneck will uncork and they can start moving at a reasonable speed. Sometimes the person behind you might jump the gun a little and bump you in their eagerness to get moving. They weren’t moving very fast, and you don’t see any damage to your car or feel like you’re injured. You go ahead and trade insurance information, but you don’t really expect to have to make a claim. You may not even make an accident report because you don’t think it’s worth the time.
+
+* Story 3 - A side impact collision, sometimes referred to as a T-bone crash, often comes out of nowhere. You were following the rules, but someone else ran a red light or a stop sign and slammed into the side of your car. These kinds of collisions can result in serious injuries and damage. Unlike head-on or rear-end collisions where the front or back end of your car may crumple and absorb some of the impact, when you’re hit from the side there’s little between you and the impact. Much of that force hits you directly, and the results can be very painful.
+
+* Story 4 - Turning left in busy intersections can be challenging since it requires drivers to make a series of complex decisions in a short period of time. Left turns are one of the riskiest driving maneuvers and are dangerous for both motorists and pedestrians.
+
 ### General Notes
 * G-Force: acceleration force experienced by the vehicle occupant
 * The soft crush of sheet metal produces low deceleration pulses in the vehicle
