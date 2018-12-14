@@ -1,0 +1,40 @@
+<svg width="507.25" height="587" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M143.5 55.5 L143.5 88 L143.5 120.5 L143.5 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M137 104.3 L143.5 112.4 L150 104.3 L143.5 120.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M114.4 158.5 L64.5 191 L64.5 223.5 L64.5 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M58 207.3 L64.5 207.3 L71 207.3 L64.5 223.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M184.9 158.5 L255.8 191 L255.8 223.5 L255.8 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M249.3 207.3 L255.8 215.4 L262.3 207.3 L255.8 223.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M255.8 261.5 L255.8 294 L303.4 326.5 L303.4 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M286.3 322.7 L296.7 321.9 L293.6 312 L303.4 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M406.8 261.5 L406.8 294 L359.1 326.5 L359.1 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M368.9 312 L365.8 321.9 L376.2 322.7 L359.1 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M291.1 364.5 L222.5 397 L222.5 429.5 L222.5 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M216 413.3 L222.5 413.3 L229 413.3 L222.5 429.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M353.8 364.5 L392.5 397 L392.5 429.5 L392.5 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M386 413.3 L392.5 421.4 L399 413.3 L392.5 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M222.5 467.5 L222.5 500 L151.7 532.5 L151.7 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M163.7 519.8 L166.4 525.7 L169.1 531.6 L151.7 532.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M64.5 261.5 L64.5 294 L64.5 500 L64.5 500 L93.4 532.5 L93.4 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M77.7 524.7 L82.6 520.4 L87.4 516 L93.4 532.5 Z" style="stroke:#33322E;fill:#eee8d5;"></path>
+<path d="M392.5 467.5 L392.5 500 L392.5 532.5 L392.5 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M386 516.3 L392.5 524.4 L399 516.3 L392.5 532.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="93.5" y="17.5" height="38" width="100" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="105.5" y="41.9" style="">VehicleB</text>
+<rect x="17.5" y="120.5" height="38" width="252" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="29.5" y="144.9" style="">Does not see (A) coming?</text>
+<ellipse cx="64.5" cy="242.5" rx="31" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="45.5" y="247.9" style="">*No*</text>
+<ellipse cx="255.8" cy="242.5" rx="36" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="231.5" y="247.9" style="">*Yes*</text>
+<rect x="171.5" y="326.5" height="38" width="319" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="183.5" y="350.9" style="">(A) ran intersection red light?</text>
+<rect x="356.5" y="223.5" height="38" width="100" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="368.5" y="247.9" style="">VehicleA</text>
+<ellipse cx="222.5" cy="448.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="208.5" y="453.9" style="">No*</text>
+<ellipse cx="392.5" cy="448.5" rx="31" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="373.5" y="453.9" style="">Yes*</text>
+<rect x="45.5" y="532.5" height="38" width="129" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="57.5" y="556.9" style="">No Accident</text>
+<rect x="304.5" y="532.5" height="38" width="176" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="316.5" y="556.9" style="">T-Bone Collision</text></svg>
