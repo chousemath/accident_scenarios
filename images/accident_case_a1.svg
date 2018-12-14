@@ -20,13 +20,13 @@
 <path d="M381 516.3 L387.5 524.4 L394 516.3 L387.5 532.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
 <rect x="103.5" y="17.5" height="38" width="100" style="stroke:#33322E;fill:#eee8d5;"></rect>
 <text x="115.5" y="41.9" style="">VehicleA</text>
-<rect x="17.5" y="120.5" height="38" width="271" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<rect x="17.5" y="120.5" height="38" width="271" style="stroke:#33322E;fill:#f6f6f6;"></rect>
 <text x="29.5" y="144.9" style="">Following (B) too closely?</text>
 <ellipse cx="88.3" cy="242.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
 <text x="73.5" y="247.9" style="">No*</text>
 <ellipse cx="248.5" cy="242.5" rx="31" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
 <text x="229.5" y="247.9" style="">Yes*</text>
-<rect x="195.5" y="326.5" height="38" width="252" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<rect x="195.5" y="326.5" height="38" width="252" style="stroke:#33322E;fill:#f6f6f6;"></rect>
 <text x="207.5" y="350.9" style="">(B) sudden deceleration?</text>
 <rect x="344.5" y="223.5" height="38" width="100" style="stroke:#33322E;fill:#eee8d5;"></rect>
 <text x="356.5" y="247.9" style="">VehicleB</text>
