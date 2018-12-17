@@ -6,7 +6,7 @@
 
 ##### *Spending too much time at an intersection*
 
-![Alt accident_case_a1](images/accident_case_a3.svg)
+![Alt accident_case_a3](images/accident_case_a3.svg)
 
 > If a vehicle spends too long at an intersection, that is a good sign that that vehicle has been involved in some kind of accident (unless it is an extremely busy intersection, like 강남).
 
@@ -122,4 +122,13 @@
 * [A Review Paper on Accident Detection System Using Intelligent Algorithm for VANET](https://drive.google.com/file/d/11jgWeSp5OAWxD12c3oR9s5I-uU5GqAgG/view?usp=sharing)
 * [ACCIDENT DETECTION DEPENDING ON THE VEHICLE POSITION AND VEHICLE THEFT TRACKING, REPORTING SYSTEMS](https://drive.google.com/file/d/128h_E20QdvC6Hn77oJK5RjgFtdZJ5u4s/view?usp=sharing)
 * [ACCIDENT DETECTION SYSTEM APPLICATION](https://drive.google.com/file/d/1lavEV9gpmVflaYyad0zArhtLH5VLF7fh/view?usp=sharing)
+
+
+### Other project ideas
+
+##### Speech-pattern drunk driving prevention system
+
+![Alt speech_pattern](images/speech_pattern.svg)
+
+> The idea of this system is to prevent a drunk driver from starting their car. Instead of using a chemical sensor, we can use the user's speech pattern to prevent him/her from starting their car. When sober, the user is prompted to read several stories. The machine learning algorithm learns the user's speech pattern, and then generates a new, similar (but different) story every time the user wants to start their car. The assumption is that when a user is drunk, and reading the new story, their speech pattern will be noticeably different from when they are sober.
 

@@ -1,0 +1,38 @@
+<svg width="746" height="587" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M565.5 55.5 L565.5 88 L565.5 120.5 L565.5 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M559 104.3 L565.5 112.4 L572 104.3 L565.5 120.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M565.5 158.5 L565.5 191 L565.5 223.5 L565.5 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M559 207.3 L565.5 215.4 L572 207.3 L565.5 223.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M177 158.5 L177 191 L177 223.5 L177 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M170.5 207.3 L177 215.4 L183.5 207.3 L177 223.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M565.5 261.5 L565.5 294 L442.9 326.5 L442.9 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M457 316.1 L450.8 324.4 L460.3 328.6 L442.9 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M177 261.5 L177 294 L299.6 326.5 L299.6 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M282.2 328.6 L291.7 324.4 L285.5 316.1 L299.6 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M323.3 364.5 L241.3 397 L241.3 429.5 L241.3 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M234.8 413.3 L241.3 421.4 L247.8 413.3 L241.3 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M419.2 364.5 L501.3 397 L501.3 429.5 L501.3 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M494.8 413.3 L501.3 421.4 L507.8 413.3 L501.3 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M241.3 467.5 L241.3 500 L241.3 532.5 L241.3 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M234.8 516.3 L241.3 524.4 L247.8 516.3 L241.3 532.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M501.3 467.5 L501.3 500 L501.3 532.5 L501.3 532.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M494.8 516.3 L501.3 524.4 L507.8 516.3 L501.3 532.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="453.5" y="17.5" height="38" width="224" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="465.8" y="41.9" style="">App generates a story</text>
+<rect x="406.5" y="120.5" height="38" width="319" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="418.8" y="144.9" style="">User reads the story when sober</text>
+<rect x="401.5" y="223.5" height="38" width="328" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="413.5" y="247.9" style="">App learns user's speech pattern</text>
+<rect x="27.5" y="120.5" height="38" width="300" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="39.8" y="144.9" style="">App generates a similar story</text>
+<rect x="17.5" y="223.5" height="38" width="319" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="29.8" y="247.9" style="">User reads the story when drunk</text>
+<rect x="214.5" y="326.5" height="38" width="314" style="stroke:#33322E;fill:#edcdff;"></rect>
+<text x="226.5" y="350.9" style="">Matches user's speech pattern?</text>
+<ellipse cx="241.3" cy="448.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="226.5" y="453.9" style="">No*</text>
+<ellipse cx="501.3" cy="448.5" rx="31" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="482.5" y="453.9" style="">Yes*</text>
+<rect x="86.5" y="532.5" height="38" width="309" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="98.5" y="556.9" style="">Prevent user from starting car</text>
+<rect x="460.5" y="532.5" height="38" width="81" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="472.5" y="556.9" style="">Ignore</text></svg>
