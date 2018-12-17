@@ -10,6 +10,16 @@
 
 > If a vehicle spends too long at an intersection, that is a good sign that that vehicle has been involved in some kind of accident (unless it is an extremely busy intersection, like 강남).
 
+### Real accident case studies
+
+##### [Accident case study 1](https://www.traceysolicitors.ie/en/car-accident-case-study/)
+
+> Ciaran works for a logistics food delivery company and was walking from the driver’s door to the back of the van when a car came from behind the van and hit his left forearm and left wrist area. His left forearm and wrist area hit off the wing mirror of the car as it came through a very tight gap between Ciaran’s van and other traffic. The impact caused the mirror to be folded in. He was shocked but felt fine to begin with and carried on doing his deliveries. Later in the evening, he noted pain in his mid forearm and which worsened by the next morning. When he visited his doctor, he was diagnosed with soft tissue damage and it was not possible to put a time frame on his recovery. Ciaran could not put weight on his arm and said it was ‘like the sensation of a dead leg but in the arm’.
+
+##### [Accident case study 2](https://www.digbybrown.co.uk//solicitors/clients/ten-fold-increase-for-injured-passenger-with-expert-lawyers)
+
+> Mr Conway was a passenger in a car when he was injured in road traffic accident in the Highlands. The driver was travelling at speed along an icy rural road before losing control and colliding with a tree. The driver was also under the influence of alcohol at the time of the incident. Mr Conway suffered serious physical and psychological injuries including a fractured back and serious injury to his shoulder which drastically impacted his ability to work. Mr Conway then approached Digby Brown to pursue an road injury claim on his behalf.
+
 ### Velocity/acceleration based detection system
 
 ![Alt accident_a1](images/accident_a1.svg)
