@@ -2,7 +2,15 @@
 
 > Reference material for the Hyundai TIPS program application
 
-### Velocity/acceleration scenario (a1)
+### Imaginary accident scenarios
+
+##### *Spending too much time at an intersection*
+
+![Alt accident_case_a1](images/accident_case_a3.svg)
+
+> If a vehicle spends too long at an intersection, that is a good sign that that vehicle has been involved in some kind of accident (unless it is an extremely busy intersection, like 강남).
+
+### Velocity/acceleration based detection system
 
 ![Alt accident_a1](images/accident_a1.svg)
 
@@ -22,15 +30,16 @@
 * A sudden stop generates approximately 1G [*](https://drive.google.com/file/d/1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf/view?usp=sharing)
 * When a smartphone is dropped inside a vehicle, it experiences approximately 2G's on the y/z axes, and 3G's on the x-axis before it comes to rest [*](https://drive.google.com/file/d/1DYU_4OLVB49VQrmpePN6T9Jg_qmxFNcf/view?usp=sharing)
 
-### Large/sudden shift in gyroscope orientation scenario (a2)
+### Gyroscope-based detection system
 
 ![Alt accident_a2](images/accident_a2.svg)
 
 > * GyroX: vehicle's orientation along the x-axis
 > * GyroY: vehicle's orientation along the y-axis
 > * GyroZ: vehicle's orientation along the z-axis
+> * Vehicle rollover — Vehicle rollover accidents are extremely dangerous and frightening. A rollover occurs when a vehicle literally flips over onto its side or roof. Any vehicle can be involved in a rollover accident, but cars with a high center of gravity such as SUVs (sport utility vehicles) are especially prone to this type of accident. Often caused by sharp turns at high speed, rollover accidents can lead to serious injuries, including spinal cord injuries and brain trauma.
 
-### Airbag acoustic event scenario (a3)
+### Airbag acoustics-based detection system
 
 ![Alt accident_a3](images/accident_a3.svg)
 
@@ -49,23 +58,23 @@
 
 ### Common minor vehicle accidents
 
-##### Rear-end collisions
+##### *Rear-end collisions*
 
 ![Alt accident_case_a1](images/accident_case_a1.svg)
 
 > These types of traffic accidents are often caused by sudden deceleration (slowing down or braking). In some cases, another driver is following too closely or accelerates to a higher speed than the car in front of it.
 
-##### T-Bone or Cross-Traffic Accidents
+##### *T-Bone or Cross-Traffic Accidents*
 
 ![Alt accident_case_a2](images/accident_case_a2.svg)
 
-> Collisions at an intersection where traffic crosses are most often called T-bone accidents. These are usually caused by a driver running a red light or stop sign or taking a left turn without yielding to oncoming traffic. Since most T-bone crashes are caused by the negligence of a driver, the best way to avoid these crashes is to follow traffic laws. Unfortunately, not everyone is responsible about this. In order to prevent being a victim of another person’s poor driving, take extra caution when driving through intersections and watch out for any signs that the other driver is distracted and not paying attention.
+> Collisions at an intersection where traffic crosses are most often called T-bone accidents. These are usually caused by a driver running a red light or stop sign or taking a left turn without yielding to oncoming traffic. Since most T-bone crashes are caused by the negligence of a driver, the best way to avoid these crashes is to follow traffic laws. Unfortunately, not everyone is responsible about this. In order to prevent being a victim of another person’s poor driving, take extra caution when driving through intersections and watch out for any signs that the other driver is distracted and not paying attention. It can be impacted by the front or rear of another vehicle or in some cases a fixed object. Vehicle damage is often severe and drivers or passengers on the impacted side of the vehicle usually sustain far worse injuries than they would in another type of crash.
 
-* Side-impact collisions — Side-impact collisions can cause grave injuries. Often called "T-bone" or "broadside" collisions, side-impact accidents occur when the side of a vehicle is hit. It can be impacted by the front or rear of another vehicle or in some cases a fixed object. Vehicle damage is often severe and drivers or passengers on the impacted side of the vehicle usually sustain far worse injuries than they would in another type of crash.
+##### Clipping Other Cars When Merging
+
+> Merging cars (and cars around the merging vehicle) are at risk of being sideswiped. These types of car crashes generally caused by a failure of the merging driver to check all blind spots. In order to void these crashes, always look around you and check blind spots before changing lanes. Also, don’t speed, especially in areas where other drivers commonly will be merging. You may make it more difficult for them to properly see you when checking in blind spots.
 
 * Sideswipe collisions — Sideswipe collisions occur when two cars that are parallel touch. In many cases, the damage is only minor, as the cars have just "swiped" each other. Injuries and damages are typically minimal, unless one of the drivers loses control of the vehicle as a result of the collision.
-
-* Vehicle rollover — Vehicle rollover accidents are extremely dangerous and frightening. A rollover occurs when a vehicle literally flips over onto its side or roof. Any vehicle can be involved in a rollover accident, but cars with a high center of gravity such as SUVs (sport utility vehicles) are especially prone to this type of accident. Often caused by sharp turns at high speed, rollover accidents can lead to serious injuries, including spinal cord injuries and brain trauma.
 
 * Head-on collisions — These types of collisions are often fatal. Head-on collisions are exactly what they sound like — they occur when the front ends of two vehicles impact each other.
 
@@ -74,8 +83,6 @@
 * Multiple vehicle collisions — Multiple vehicle collisions are sometimes referred to as "pile-ups" and often occur on busy roads such as highways and freeways. They can involve many vehicles and be the most dangerous. Vehicles can be impacted multiple times and it may be difficult to escape. It is also difficult to determine fault in these cases.
 
 * Hit-and-run accidents — An accident where one driver leaves the scene is known as a hit-and-run accident. It can be very difficult to determine the identity of the driver or vehicle.
-
-* Clipping Other Cars When Merging - Merging cars (and cars around the merging vehicle) are at risk of being sideswiped. These types of car crashes generally caused by a failure of the merging driver to check all blind spots. In order to void these crashes, always look around you and check blind spots before changing lanes. Also, don’t speed, especially in areas where other drivers commonly will be merging. You may make it more difficult for them to properly see you when checking in blind spots.
 
 * Low Speed Accidents - Low speed impact crashes may not be the worst, but they can still do damage. These fender-benders, bumps, parking lot collisions, and other crashes under the speed of ten miles per hour can often happen in parking lots and residential areas, risking pedestrian lives. You must always be on the lookout for pedestrians in neighborhoods and other common pedestrian areas, and you should never speed. Even at low speeds, pedestrian accidents can result in serious injury. Since many low speed crashes happen while drivers are backing up, take extra care to look out for other drivers before reversing.
 
@@ -115,33 +122,4 @@
 * [A Review Paper on Accident Detection System Using Intelligent Algorithm for VANET](https://drive.google.com/file/d/11jgWeSp5OAWxD12c3oR9s5I-uU5GqAgG/view?usp=sharing)
 * [ACCIDENT DETECTION DEPENDING ON THE VEHICLE POSITION AND VEHICLE THEFT TRACKING, REPORTING SYSTEMS](https://drive.google.com/file/d/128h_E20QdvC6Hn77oJK5RjgFtdZJ5u4s/view?usp=sharing)
 * [ACCIDENT DETECTION SYSTEM APPLICATION](https://drive.google.com/file/d/1lavEV9gpmVflaYyad0zArhtLH5VLF7fh/view?usp=sharing)
-
-
-case 1
-
-was driving
-then stopped by side of the road
-got out of the car (lighter vehicle)
-for a certain amount of time
-1 person got out, or two people got out
-are we able to tell which person is sitting where?
-
-
-before toll gates or tunnels or bridge
-there are deliberately bumpy roads
-need to ignore this as an accident case
-
-parked
-there was a vibration
-should notify the subscriber
-
-need to ask him if we can get vibration data from different parts of the car
-
-vibration (hit something)
-and then lighter load (person got out to inspect)
-
-hit the breaks, but still resulted in a collision
-(maybe also a collision from the back)
-
-hydroplaning, and ice slippage
 

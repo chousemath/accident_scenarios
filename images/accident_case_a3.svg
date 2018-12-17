@@ -1,0 +1,32 @@
+<svg width="457.75" height="484" version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:11pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M130.6 55.5 L51.3 88 L51.3 120.5 L51.3 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M44.8 104.3 L51.3 112.4 L57.8 104.3 L51.3 120.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M217.5 55.5 L286.8 88 L286.8 120.5 L286.8 120.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M280.3 104.3 L286.8 112.4 L293.3 104.3 L286.8 120.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M286.8 158.5 L286.8 191 L286.8 223.5 L286.8 223.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M280.3 207.3 L286.8 215.4 L293.3 207.3 L286.8 223.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M258.1 261.5 L209 294 L209 326.5 L209 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M202.5 310.3 L209 318.4 L215.5 310.3 L209 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M311.1 261.5 L352.8 294 L352.8 326.5 L352.8 326.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M346.3 310.3 L352.8 318.4 L359.3 310.3 L352.8 326.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M51.3 158.5 L51.3 191 L51.3 397 L51.3 397 L81.5 429.5 L81.5 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M65.7 422 L76 423.6 L75.2 413.2 L81.5 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M209 364.5 L209 397 L139.7 429.5 L139.7 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M151.7 416.7 L147.1 426 L157.2 428.5 L139.7 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<path d="M352.8 364.5 L352.8 397 L352.8 429.5 L352.8 429.5 " style="stroke:#33322E;fill:none;"></path>
+<path d="M346.3 413.3 L352.8 421.4 L359.3 413.3 L352.8 429.5 Z" style="stroke:#33322E;fill:#33322E;"></path>
+<rect x="17.5" y="17.5" height="38" width="319" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="29.8" y="41.9" style="">Vehicle at intersection (GPS) ?</text>
+<ellipse cx="51.3" cy="139.5" rx="26.5" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="36.5" y="144.9" style="">No*</text>
+<ellipse cx="286.8" cy="139.5" rx="31" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="267.5" y="144.9" style="">Yes*</text>
+<rect x="132.5" y="223.5" height="38" width="309" style="stroke:#33322E;fill:#eee8d5;"></rect>
+<text x="144.5" y="247.9" style="">No movement for 10 min (GPS) ?</text>
+<ellipse cx="209" cy="345.5" rx="31" ry="19" style="stroke:#33322E;fill:#ffc5c5;"></ellipse>
+<text x="190.5" y="350.9" style="">*No*</text>
+<ellipse cx="352.8" cy="345.5" rx="36" ry="19" style="stroke:#33322E;fill:#ceffcf;"></ellipse>
+<text x="328.5" y="350.9" style="">*Yes*</text>
+<rect x="58.5" y="429.5" height="38" width="81" style="stroke:#33322E;fill:#f2f8f9;"></rect>
+<text x="70.5" y="453.9" style="">Ignore</text>
+<rect x="302.5" y="429.5" height="38" width="100" style="stroke:#33322E;fill:#ff906b;"></rect>
+<text x="314.5" y="453.9" style="">Accident</text></svg>
