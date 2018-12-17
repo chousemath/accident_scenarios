@@ -20,6 +20,10 @@
 
 > Mr Conway was a passenger in a car when he was injured in road traffic accident in the Highlands. The driver was travelling at speed along an icy rural road before losing control and colliding with a tree. The driver was also under the influence of alcohol at the time of the incident. Mr Conway suffered serious physical and psychological injuries including a fractured back and serious injury to his shoulder which drastically impacted his ability to work. Mr Conway then approached Digby Brown to pursue an road injury claim on his behalf.
 
+##### [Accident case study 3](https://www.digbybrown.co.uk/solicitors/clients/students-hounded-to-accept-low-offer-for-car-accident-claim)
+
+> Two students were involved in a car accident in the west of Scotland after another driver cut directly in front of them, causing a head on collision. “The car accident shouldn’t have happened. The police were baffled and said they don’t know how the other driver had done it, it was totally preventable. The accident was caused out of stupidity.”
+
 ### Velocity/acceleration based detection system
 
 ![Alt accident_a1](images/accident_a1.svg)
