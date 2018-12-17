@@ -24,6 +24,18 @@
 
 > Two students were involved in a car accident in the west of Scotland after another driver cut directly in front of them, causing a head on collision. “The car accident shouldn’t have happened. The police were baffled and said they don’t know how the other driver had done it, it was totally preventable. The accident was caused out of stupidity.”
 
+##### [Accident case study 4](https://www.digbybrown.co.uk/solicitors/clients/car-accident-victim-benefits-from-specialist-ayr-lawyers)
+
+> Our client Jim Richmond was driving on the A9 to Aviemore for some hillwalking with his partner when a driver veered into his lane and crashed into him at 60mph. Rescue services were called to the scene where Jim was cut out the car and taken to Ninewells Hospital.
+
+##### [Accident case study 5](https://www.digbybrown.co.uk/solicitors/clients/you-would-be-a-fool-not-to-use-digby-brown)
+
+> Stacey Scott was driving along Boghead Road, Kirkintilloch with her four-month old child when she spotted a car coming the other direction - but onto her side of the road. She pulled over as far as she could and kept beeping her horn, but the other driver didn’t look up until the last minute and hit her. As a consequence the other driver was charged with careless driving. Ms Scott’s car was also so badly damaged it was written off and she was forced to buy an older car.
+
+##### [Accident case study 6](https://www.digbybrown.co.uk/solicitors/clients/brave-mum-stops-runaway-car-told-injuries-are-her-fault)
+
+> Mrs M. was driving when she had to swerve to avoid a car after it tried to pull out in front of her. She soon realised that the car had no driver and it had begun to roll down a hill towards a public building potentially causing many casualties.
+
 ### Velocity/acceleration based detection system
 
 ![Alt accident_a1](images/accident_a1.svg)
