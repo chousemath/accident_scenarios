@@ -1,3 +1,9 @@
+# TIPS Program Ideas
+
+##### *Accident detection to insurance estimate*
+
+![Alt tips_idea_1](images/tips_idea_1.svg)
+
 # Accident Scenarios
 
 > Reference material for the Hyundai TIPS program application
